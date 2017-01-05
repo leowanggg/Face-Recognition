@@ -43,4 +43,7 @@ Thanks @irlnathan/activityoverlord and @charlesmwang/facerec-server-node-sails w
  
     $sails lift
 
+### PS:
+
+You can see the details of this project by reading Report.pdf
 
